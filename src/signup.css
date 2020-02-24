@@ -1,0 +1,50 @@
+#btn1{
+    color: black;
+    font-size: 25px;
+  }
+  #inp{
+    width:40%;
+    margin-left: 4%;
+    height: 70;
+    
+  };
+  .inp{
+    width:40%;
+    margin-left: 4%;
+    height: 70;
+    
+  };
+ 
+ h1{
+  margin-left: 10rem;
+ }
+ 
+
+ li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:#CCDED8;
+}
+
+ .contact-background-image {
+  background: url("https://wallpaper.wiki/wp-content/uploads/2017/06/Gradient-Wallpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#h1{
+  margin-left: 27%;
+}
+#h2{
+  margin-left: 0%;
+}
+
+
